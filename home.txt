@@ -1,0 +1,65 @@
+<html>
+<head>
+<style>
+h2{
+padding-left: 400px;
+}
+
+img.picture1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+ 
+h1{
+  margin-left: 500px; 
+  }
+img.Gitam{
+  padding-left: 350px;
+  
+ }
+
+ a:link, a:visited {
+}
+
+.bottom {
+	margin-bottom:300px;
+}
+
+a:link, a:visited {
+  background-color:white;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: green;
+  color: white;
+}
+p{
+  padding-top: 100px;
+  }
+</style>
+<h1>WELCOME TO GITAM LIBARY</h1></br>
+<div >
+<img src="C:\Users\THIRUPATHI\OneDrive\Desktop\GITAM-logo_new_0.jpg" alt="gitam" class="Gitam">
+</div></br>
+</head>
+<body>
+<h2>
+<a href="loginpage.html"  target="_self" >login</a>
+<a href="contact.html"  target="_self" >CONTACT</a>
+<a href="register.html"  target="_self" >Register</a>
+</h2>
+<p>
+<div>
+<img src="C:\Users\THIRUPATHI\OneDrive\Desktop\footer_bottom.jpg" alt="Paris" style="width:50%" class="picture1">
+</p>
+</div>
+<div class='bottom'></div>
+</body>
+</html>
